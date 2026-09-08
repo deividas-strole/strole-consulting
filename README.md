@@ -4,7 +4,7 @@ Official website for **Strole Consulting**, an independent IT consulting and tec
 
 The website presents services including IT consulting, computer repair, hardware and software support, cybersecurity, networking, smart home setup, equipment sourcing, and custom software solutions.
 
-## Live Website
+## Live Website:
 
 https://stroleconsulting.com
 
